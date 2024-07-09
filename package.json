@@ -1,0 +1,16 @@
+{
+    "name": "marvel-streaming-platform",
+    "version": "1.0.0",
+    "description": "A modern streaming platform using Marvel API",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "node-fetch": "^2.6.1"
+    }
+  }
+  
